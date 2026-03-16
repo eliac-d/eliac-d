@@ -1,7 +1,9 @@
 <div align="center">
+
 <a href="https://deylin.xyz">
-<img src="https://github.com/eliac-d.jpg" width="100%" alt="Cyber Lines Banner" />
+<img src="https://github.com/eliac-d.png" width="100%" alt="Cyber Lines Banner" />
 </a>
+
 # Deylin Eliac | Core Architect
 *Construyendo infraestructuras donde otros ven límites.*
 
