@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mayccw/Mayccw/main/assets/light-line.gif" width="100%" alt="Cyber Lines Banner" />
+<img src="https://" width="100%" alt="Cyber Lines Banner" />
 
 # Deylin Eliac | Core Architect
 *Construyendo infraestructuras donde otros ven límites.*
