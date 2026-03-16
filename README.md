@@ -35,7 +35,7 @@
 
 ### ◈ Activity Dashboard
 
-![](https://github-readme-stats.vercel.app/api?username=DeylinEliac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FBFF&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=eliac-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FBFF&text_color=ffffff)
 
 <br />
 
